@@ -35,7 +35,7 @@ Then the player presses "Enter" and awaits computer's choice. The winner is show
 
 [==live demo==] (https://replit.com/@vladev-petar/PracticalProjectRock-Paper-Scissors)
 
-![Game (6) - live demo.png](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Game%20(6)%20-%20live%20demo.png)
+![Game (6) - live demo_5.png](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Game%20(6)%20-%20live%20demo_5.png)
 
 ![Game (6) - live demo_4.png](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Game%20(6)%20-%20live%20demo_4.png)
 
