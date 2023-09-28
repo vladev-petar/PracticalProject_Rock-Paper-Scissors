@@ -5,7 +5,7 @@ The goals of this project are to use some simple logic, such as the popular game
 
 (==*Exercising on working with GitHub*[^1] :joy: ==)
 
-![https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/number-guessing-java-game.jpg]
+![Rock-Paper-Scissors-logo-2.jpg](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Rock-Paper-Scissors-logo-2.jpg)
 
 The rules of the game are quite simple. Try to guess the number, randomly chosen by computer, between 0-100. If your guess is higher that the number, you'll get a hint "Too high...", or if you guess lower, then you'll get a "Too low..." message. You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
 
