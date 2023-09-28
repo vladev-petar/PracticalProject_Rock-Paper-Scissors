@@ -13,7 +13,7 @@ The rules of the game are wellknown, as this is a very popular game, however jus
 - "paper" or "p"
 - "scissors" or "s"
 
-Then the player presses "Enter" and awaits computer's choice. The winner is shown immediately, e.g. "Out of luck. Computer wins!", or "Luck is on your side. You win!", or "Draw. Better luck next time!", incliuding the count of the score. You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
+Then the player presses "Enter" and awaits computer's choice. The winner is shown immediately, e.g. "Out of luck. Computer wins!", or "Luck is on your side. You win!", or "Draw. Better luck next time!", incliuding the count of the score. You get 2 points for a "win", 1 point for a "draw", and 0 points for a "loss", and same applies for the computer. You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
 
 [==Start of game==]
 
@@ -33,9 +33,11 @@ Then the player presses "Enter" and awaits computer's choice. The winner is show
 
 **You can play the game directly in your browser here:**
 
-[==live demo==] (https://replit.com/@vladev-petar/PracticalProjectGuessANumber#Main.java)
+[==live demo==] (https://replit.com/@vladev-petar/PracticalProjectRock-Paper-Scissors)
 
-![Game (3) - live demo.png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game%20(3)%20-%20live%20demo.png)
+![Game (6) - live demo.png](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Game%20(6)%20-%20live%20demo.png)
+
+![Game (6) - live demo_4.png](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Game%20(6)%20-%20live%20demo_4.png)
 
 **[source code]** (https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/src/PracticalProject_Rock_Paper_Scissors.java)
 
