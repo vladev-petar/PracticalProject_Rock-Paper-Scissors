@@ -3,6 +3,9 @@
 
 The goals of this project are to use some simple logic, such as the popular game "Rock – Paper – Scissors", so as to add my own ideas to further develop the logic, by adding more features of my own, make the game better, or more complicated, or more advanced, or else, thus pricticing my coding skills, as well as exercising handling of a GitHub repository.
 
+- Current goals (the problems to be solved →     )
+- Solution (describtion of how the problem has been solved → algorithms, technologies, libraries, frameworks, tools, etc.)
+
 (==*Exercising on working with GitHub*[^1] :joy: ==)
 
 ![Rock-Paper-Scissors-logo-2.jpg](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Rock-Paper-Scissors-logo-2.jpg)
