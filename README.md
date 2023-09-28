@@ -7,7 +7,13 @@ The goals of this project are to use some simple logic, such as the popular game
 
 ![Rock-Paper-Scissors-logo-2.jpg](https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/Rock-Paper-Scissors-logo-2.jpg)
 
-The rules of the game are quite simple. Try to guess the number, randomly chosen by computer, between 0-100. If your guess is higher that the number, you'll get a hint "Too high...", or if you guess lower, then you'll get a "Too low..." message. You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
+The rules of the game are wellknown, as this is a very popular game, however just in brief - the player types one of the following options:
+
+- "rock" or "r"
+- "paper" or "p"
+- "scissors" or "s"
+
+Then the player presses "Enter" and awaits computer's choice. The winner is shown immediately, e.g. "Out of luck. Computer wins!", or "Luck is on your side. You win!", or "Draw. Better luck next time!", incliuding the count of the score. You may also end the game as you choose, by entering "F" for "Finish". But before that, you may as well spend some time, enjoying this console game, taking your chance against the computer 😄. 
 
 [==Start of game==]
 
@@ -31,6 +37,6 @@ The rules of the game are quite simple. Try to guess the number, randomly chosen
 
 ![Game (3) - live demo.png](https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/Game%20(3)%20-%20live%20demo.png)
 
-**[source code]** (https://github.com/vladev-petar/PracticalProject_GuessANumber/blob/main/src/PracticalProject_GuessANumber.java)
+**[source code]** (https://github.com/vladev-petar/PracticalProject_Rock-Paper-Scissors/blob/main/src/PracticalProject_Rock_Paper_Scissors.java)
 
 [^1]: ==*SoftUni*==
